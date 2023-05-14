@@ -46,3 +46,12 @@ label {
   background: #000;
   height: 30px;
 }
+.html {
+  color: rgb(228, 81, 52);
+}
+.css {
+  color: rgb(71, 135, 223);
+}
+.js {
+  color: rgb(231, 189, 64);
+}
